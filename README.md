@@ -42,4 +42,8 @@ https://febaalex.github.io/Work-Day/
 
 https://github.com/FebaAlex/Work-Day.git
 
-# Landing Page 
+# Landing Page
+
+<img width="1422" alt="Screen Shot 2022-04-04 at 9 04 34 PM" src="https://user-images.githubusercontent.com/98286810/161676880-58ecf8ec-a03b-43af-8162-fe03ba879eda.png">
+
+
